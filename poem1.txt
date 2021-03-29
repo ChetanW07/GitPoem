@@ -1,3 +1,5 @@
 This is Poem 1
 Adding theme to my poem
 Will add Rainbow colors
+Colrs: Red
+green, yelllow,voilet,blue
